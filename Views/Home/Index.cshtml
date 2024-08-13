@@ -1,0 +1,92 @@
+﻿@model IEnumerable<citymaster.Models.citymaster>
+<h3>Welcome @Session["username"]</h3>
+
+<p>
+    @using (Html.BeginForm("Index", "Home", FormMethod.Get))
+    {
+        <b> Search by : </b> @Html.RadioButton("searchby", "cityname", true) <text> City </text>
+        @Html.RadioButton("searchby", "intstateid")<text >State </text> <br />
+        @Html.TextBox("search") <input type="submit" value="Search" />
+    }
+
+</p>
+
+<div class="container">
+    <div class="row justify-content-between align-items-center mb-3">
+
+        <div class="col-auto">
+            <p>
+                @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary" })
+            </p>
+        </div>
+
+        <div class="col-auto">
+            @using (Html.BeginForm("Logout", "Login", FormMethod.Post, new { @class = "form-inline" }))
+            {
+                <button type="submit" class="btn btn-danger">Logout</button>
+            }
+        </div>
+    </div>
+</div>
+
+@if (TempData["InsertMessage"] != null)
+{
+    <script>alert('@TempData["InsertMessage"]')</script>
+}
+
+@if (TempData["DeleteMessage"] != null)
+{
+    <script>alert('@TempData["DeleteMessage"]')</script>
+}
+
+@if (TempData["UpdateMessage"] != null)
+{
+    <script>alert('@TempData["UpdateMessage"]')</script>
+}
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>City ID</th>
+            <th>City Name</th>
+            <th>State Name</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @if (Model.Count() == 0)
+        {
+            <tr>
+                <td colspan="4">
+                    <p>No rows found</p>
+                </td>
+            </tr>
+        }
+
+        else
+        {
+            foreach (var city in Model)
+            {
+                <tr>
+                    <td>@city.cityid</td>
+                    <td>@city.cityname</td>
+                    <td>@city.state.strstatename</td>
+                    <td>
+                        <div class="btn-group" role="group" aria-label="Action buttons">
+                            @Html.ActionLink("Edit", "Edit", new { id = city.cityid }, new { @class = "btn btn-primary mr-2" })
+                            @Html.ActionLink("Details", "Details", new { id = city.cityid }, new { @class = "btn btn-secondary mr-2" })
+
+                            @using (Html.BeginForm("Delete", "Home", new { id = city.cityid }))
+                            {
+                                @Html.HttpMethodOverride(HttpVerbs.Delete)
+                                <button class="btn btn-danger" type="submit">Delete</button>
+                            }
+                        </div>
+                    </td>
+                </tr>
+            }
+        }
+
+    </tbody>
+</table>

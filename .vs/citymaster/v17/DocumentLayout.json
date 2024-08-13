@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|c:\\users\\kavin.vala\\source\\repos\\citymaster\\models\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:models\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\models\\citycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:models\\citycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\models\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:models\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\models\\statemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:models\\statemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\models\\citymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:models\\citymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|C:\\Users\\kavin.vala\\source\\repos\\citymaster\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D881F1D2-4ED3-4A8B-AE91-7F6B0D97AB81}|citymaster.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:28:33.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-15T07:11:07.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityContext.cs",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Models\\CityContext.cs",
+              "RelativeDocumentMoniker": "Models\\CityContext.cs",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Models\\CityContext.cs",
+              "RelativeToolTip": "Models\\CityContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:03:08.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Models\\CityConfiguration.cs",
+              "RelativeDocumentMoniker": "Models\\CityConfiguration.cs",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Models\\CityConfiguration.cs",
+              "RelativeToolTip": "Models\\CityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:21:02.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "citymaster.cs",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Models\\citymaster.cs",
+              "RelativeDocumentMoniker": "Models\\citymaster.cs",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Models\\citymaster.cs",
+              "RelativeToolTip": "Models\\citymaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:00:16.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginContext.cs",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Models\\LoginContext.cs",
+              "RelativeDocumentMoniker": "Models\\LoginContext.cs",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Models\\LoginContext.cs",
+              "RelativeToolTip": "Models\\LoginContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:29:00.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "statemaster.cs",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Models\\statemaster.cs",
+              "RelativeDocumentMoniker": "Models\\statemaster.cs",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Models\\statemaster.cs",
+              "RelativeToolTip": "Models\\statemaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T04:55:18.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "users.cs",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Models\\users.cs",
+              "RelativeDocumentMoniker": "Models\\users.cs",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Models\\users.cs",
+              "RelativeToolTip": "Models\\users.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:27:29.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T08:32:24.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T12:35:30.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T09:22:05.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:26:31.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAEBVwBYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T06:35:08.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T09:50:09.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T12:15:57.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:21:54.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T04:48:39.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\kavin.vala\\source\\repos\\citymaster\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-15T12:48:25.172Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

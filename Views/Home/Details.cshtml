@@ -1,0 +1,28 @@
+﻿@model citymaster.Models.citymaster
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="container">
+    <h2>Details</h2>
+
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">City Details</h4>
+            <hr />
+            <dl class="dl-horizontal">
+                <dt>State Name:</dt>
+                <dd>@Html.DisplayFor(model => model.state.strstatename)</dd>
+
+                <dt>City Name:</dt>
+                <dd>@Html.DisplayFor(model => model.cityname)</dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="mt-3">
+        @Html.ActionLink("Edit", "Edit", new { id = Model.cityid }, new { @class = "btn btn-primary" })
+        @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+    </div>
+</div>
